@@ -1,0 +1,22 @@
+{
+  "name": "blizzard-action",
+  "version": "0.0.0",
+  "description": "Simple Action to scan for vunderabilities within NET Core Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShaidK/Blizzard.git"
+  },
+  "keywords": [
+    "Action"
+  ],
+  "author": "ShaidK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaidK/Blizzard/issues"
+  },
+  "homepage": "https://github.com/ShaidK/Blizzard#README"
+}
